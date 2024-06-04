@@ -1,0 +1,3 @@
+source : https://commons.wikimedia.org/wiki/File:Campement.svg
+Attribution (not legally required) : MothsART, CC0, via Wikimedia Commons
+license : CC0
